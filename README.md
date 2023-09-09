@@ -1,0 +1,3 @@
+- ```npm install```
+- ```npm run dev```
+- edit file src/index.ts
